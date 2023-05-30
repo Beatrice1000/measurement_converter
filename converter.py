@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
-#Hello and welcome 
 
 print ("** FOOD MEASUREMENT CONVERTER **\n\n")
 start=input("Type START to open converter: ")
