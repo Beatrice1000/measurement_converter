@@ -60,6 +60,7 @@ while True:
             break
     else:
         print("Invalid Option. Please try again")
+print("Thanks for using this converter")
        
    
 
