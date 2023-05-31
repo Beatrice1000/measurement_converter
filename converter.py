@@ -60,7 +60,7 @@ print("Thanks for using this converter")
    
 
 # print ()
-# conversions_available = [(3, "pounds", "grams"),
+
 #                          (4, "grams", "pounds"),
 #                          (5, "pounds", "ounces"),
 #                          (6, "cup", "litre"),
