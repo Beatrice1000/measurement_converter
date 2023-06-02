@@ -62,7 +62,7 @@ print("Thanks for using this converter")
 # print ()
 
 
-#                          (5, "pounds", "ounces"),
+
 #                          (6, "cup", "litre"),
 #                          (7, "litre", "cup")
 #                         ]
