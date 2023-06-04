@@ -63,9 +63,6 @@ print("Thanks for using this converter")
 
 
 
-#                          (6, "cup", "litre"),
-#                          (7, "litre", "cup")
-#                         ]
 # print("conversions available:")
 # print()
 
