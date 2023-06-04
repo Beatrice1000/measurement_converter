@@ -63,15 +63,10 @@ print("Thanks for using this converter")
 
 
 
-# print("conversions available:")
-# print()
 
-# for conversion_number, from_unit, to_unit in conversions_available:
-#   print(f'{conversion_number}) {from_unit} ->')
 
 # print()
-# conversion = input("Enter the number of the conversion to use --> ")
-# conversion_index = int(conversion) -1
+
 
 # conversion_number, from_unit, to_unit = conversions_available[conversion_index]
 # print()
