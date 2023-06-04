@@ -68,8 +68,5 @@ print("Thanks for using this converter")
 # print()
 
 
-# conversion_number, from_unit, to_unit = conversions_available[conversion_index]
-# print()
-# from_value = float(input(f'Enter {from_unit} --> ')) 
-# print()
+
 
