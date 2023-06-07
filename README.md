@@ -4,15 +4,15 @@ This converter converts measurement for ingredients used in baking or cooking. I
 
 How is the measurement converted?
 
-The converter is divided into two: Volume and Mass
+The converter is divided into two: Volume and Mass. to begin conversion type start and select "1" for Volume and "2" for Mass.
 
-For volume:
+For volume type conversion unit to execute:
 
 •	Cups to Litres
 
 •	Litres to Cups
 
-For Mass:
+For Mass type conversion unit to execute:
 
 •	Grams to pounds
 
