@@ -10,14 +10,14 @@ while True:
     type_of_converter = input("Please enter your choice: ")
     if (type_of_converter =="1"):
         print("You chose a volume converter.")
-        print("For Litres to Cups type *litresToCups* and for Cups to Litres type *cupsToLitres*")
+        print("For Litres to Cups type *litres_to_cups* and for Cups to Litres type *cups_to_litres*")
         option=input("Enter your Volume selection: ")
-        if(option=='litresToCups'):
+        if(option=='litres_to_cups'):
             number_of_litres = float(input("Enter the number of litres : "))
             number_of_cups = number_of_litres * 4.22675
             print("The number of CUPS is: ", number_of_cups)
           
-        elif(option=='cupsToLitres'):
+        elif(option=='cups_to_litres'):
             number_of_cups = float(input("Enter the number of cups : "))
             number_of_litres = number_of_cups * 0.236588
             print("The number of LITRES is: ", number_of_litres)
