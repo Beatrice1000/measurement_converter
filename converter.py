@@ -28,24 +28,24 @@ while True:
       
     elif(type_of_converter== "2"):
         print("You chose a Mass Converter")
-        print("For Grams to Pound type *gramsToPounds* and for Pounds to Grams type *poundsToGrams* and for Pounds to Ounces type *poundsToOunces* and for Ounces to Pounds type *ouncesToPounds ")
+        print("For Grams to Pound type *grams_to_pounds* and for Pounds to Grams type *pounds_to_grams* and for Pounds to Ounces type *pounds_to_ounces* and for Ounces to Pounds type *ounces_to_pounds ")
         option=input("Enter your Mass selection: ")
-        if(option=='gramsToPounds'):
+        if(option=='grams_to_pounds'):
             number_of_grams = float(input("Enter the number of grams : "))
             number_of_pounds = number_of_grams * 2.00220462
             print("The number of POUNDS is: ", number_of_pounds)
             
-        elif(option=='poundsToGrams'):
+        elif(option=='pounds_to_grams'):
             number_of_pounds = float (input("Enter the number of Pounds : "))
             number_of_grams = number_of_pounds * 453.592
             print("The number of GRAMS is: ", number_of_grams)
             
-        elif(option=='poundsToOunces'):
+        elif(option=='pounds_to_ounces'):
             number_of_pounds = float (input("Enter the number of Pounds : "))
             number_of_ounces = number_of_pounds * 16
             print("The number of OUNCES is: ", number_of_ounces)
             
-        elif(option=='ouncesToPounds'):
+        elif(option=='ounces_to_pounds'):
             number_of_ounces = float (input("Enter the number of Ounces : "))
             number_of_pounds = number_of_ounces * 0.0625
             print("The number of POUNDS is: ", number_of_pounds)
