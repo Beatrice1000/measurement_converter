@@ -22,17 +22,21 @@ For Mass:
 
 •	Ounces to pounds
 
-If value is entered in cups, the conversion to litres is executed by multiplying the figure in cups by 
-If value is entered in litres, the conversion to cups is executed by multiplying the figure in litres by
-If value is entered in grams, the conversion to pounds is executed by multiplying the figure in grams by
-If value is entered in pounds, the conversion to grams is executed by multiplying the figure in pounds by
-If value is entered in pounds, the conversion to ounces is executed by multiplying the figure in pounds by
-If value is entered in ounces, the conversion to pounds is executed by multiplying the figure in ounces by
+If value is entered in cups, the conversion to litres is executed by multiplying the figure in cups by 0.236588
+If value is entered in litres, the conversion to cups is executed by multiplying the figure in litres by 4.22675
+If value is entered in grams, the conversion to pounds is executed by multiplying the figure in grams by 2.00220462
+If value is entered in pounds, the conversion to grams is executed by multiplying the figure in pounds by 453.592
+If value is entered in pounds, the conversion to ounces is executed by multiplying the figure in pounds by 16
+If value is entered in ounces, the conversion to pounds is executed by multiplying the figure in ounces by 0.0625
 
 Enter the appropriate value for the conversion and the program will display the converted value.
 
 Limitations of the converter
 •	It does not take into consideration if it is liquid or dry ingredients
+•	It converts only Volume and Mass but could be expanded to consider more options
+
+
+
 
 
 
