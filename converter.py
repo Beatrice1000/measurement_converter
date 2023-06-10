@@ -1,5 +1,26 @@
 # -*- coding: utf-8 -*-
 
+#from tkinter import *
+#from tkinter import ttk
+
+#Creating window
+#window=Tk()
+#window.title("FOOD MEASUREMENT CONVERTER")
+#window.geometry('500x400')
+#window.configure(background="white")
+#conversion_select_label = Label(window, text= "Select Type of conversion").grid(row=0, column=0)
+
+#def show():
+    # Label.config(text= clicked.get())
+
+#Dropdown options
+#options=["Volume", "Mass"]
+
+#Datatype of selection
+#clicked=StringVar()
+
+#clicked.set("Volume")
+
 
 print ("** FOOD MEASUREMENT CONVERTER **\n\n")
 start=input("Type START to open converter: ")
